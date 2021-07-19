@@ -9,6 +9,7 @@ class InventoryserviceApplicationTests {
 
 	@Test
 	void contextLoads() {
+		system.out.println("hi)
 	}
 
 }
